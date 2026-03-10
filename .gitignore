@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+env/
+
+# Data and Logs
+data/
+processed_data/
+*.log
+
+# Personal/AI Assistant Files
+code_explanation.md
+task.md
+implementation_plan.md
+walkthrough.md
+
+# OS
+.DS_Store
+Thumbs.db
